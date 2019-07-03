@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \WebDevelopAgat\AutoloadExample::widget(); ?>```
+<?php (new \WebDevelopAgat\FillColorPng('/path/to/image'))->setColor('#f800be')->save('/path/to/result/image'); ?>```
