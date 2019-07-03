@@ -1,0 +1,21 @@
+{
+    "name": "web-develop-agat/yii2-fill-color-png",
+    "description": "extension for filling png color",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","png","color","fill"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Web Develop Agat",
+            "email": "Web_develop@agatgroup.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "WebDevelopAgat\\": ""
+        }
+    }
+}
